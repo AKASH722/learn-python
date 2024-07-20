@@ -1,4 +1,5 @@
 import socket
+
 # host = socket.gethostname() #as both run on same computer
 host = '192.168.93.138'
 port = 5000
